@@ -58,7 +58,7 @@ var enleves = mesPoissons.splice(2, 0, "tambour");
 // supprime 1 élément à partir de l'index 3
 enleves = mesPoissons.splice(3, 1);
 // mesPoissons est ["scalaire", "clown", "tambour", "chirurgien"]
-// enleves est ["mandarin"]
+// enleves est ["chirurgien"]
 
 // supprime 1 élément à partir de l'index 2, et insère "trompette"
 enleves = mesPoissons.splice(2, 1, "trompette");
